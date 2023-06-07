@@ -6,7 +6,7 @@ instruktioner på hur man startar applikationen
 
 2. kopiera in filerna i visual studio code eller öppna filen genom att använda visual studio code.
 
-3. öppna terminalen och se till att du har rätt directory alltså öppna terminalen och skriv "cd QUIZ-APP1-MAIN"
+3. öppna terminalen och se till att du har rätt directory alltså öppna terminalen och skriv "cd quiz-app1-main"
 
 4. installera npm genom att skriva i terminalen "npm install"
 
